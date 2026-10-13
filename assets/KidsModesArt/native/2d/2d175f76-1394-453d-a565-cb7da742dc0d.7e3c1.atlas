@@ -1,0 +1,62 @@
+
+panda_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg_r
+  rotate: false
+  xy: 797, 2
+  size: 100, 142
+  orig: 100, 142
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 899, 2
+  size: 100, 142
+  orig: 100, 142
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 371, 2
+  size: 224, 200
+  orig: 224, 200
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 597, 2
+  size: 99, 172
+  orig: 99, 172
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 698, 2
+  size: 97, 170
+  orig: 97, 170
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 367, 277
+  orig: 367, 277
+  offset: 0, 0
+  index: -1
+eye_close_a
+  rotate: false
+  xy: 103, 281
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+eye_close_b
+  rotate: false
+  xy: 2, 281
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
