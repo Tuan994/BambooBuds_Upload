@@ -1,0 +1,139 @@
+
+panda_win.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 881, 2
+  size: 112, 242
+  orig: 112, 242
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 995, 2
+  size: 112, 242
+  orig: 112, 242
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 517, 2
+  size: 362, 287
+  orig: 362, 287
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 1564, 2
+  size: 171, 164
+  orig: 171, 164
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 1737, 2
+  size: 169, 164
+  orig: 169, 164
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 2, 383
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 103, 383
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+eyec_l
+  rotate: false
+  xy: 461, 383
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+eyec_r
+  rotate: false
+  xy: 370, 383
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 513, 379
+  orig: 513, 379
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1292, 2
+  size: 134, 207
+  orig: 134, 207
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 1428, 2
+  size: 134, 207
+  orig: 134, 207
+  offset: 0, 0
+  index: -1
+mouth_laugh
+  rotate: false
+  xy: 551, 383
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+mouth_o
+  rotate: false
+  xy: 763, 383
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: false
+  xy: 685, 383
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+mouth_talk
+  rotate: false
+  xy: 630, 383
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1908, 2
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 1109, 2
+  size: 181, 209
+  orig: 181, 209
+  offset: 0, 0
+  index: -1
+tuft
+  rotate: false
+  xy: 204, 383
+  size: 164, 80
+  orig: 164, 80
+  offset: 0, 0
+  index: -1
